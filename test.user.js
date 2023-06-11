@@ -2,7 +2,7 @@
 // @author       TechTickBot
 // @namespace    https://t.me/techtickbot_channel
 // @name         hkticketing
-// @version      try
+// @version      試用
 // @run-at       document-idle
 // @match        *://*.hkticketing.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hkticketing.com
