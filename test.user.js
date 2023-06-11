@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         hkticketing
-// @version      試用
+// @version      \u8a66\u7528\u000d
 // @author       TechTickBot
 // @namespace    https://t.me/techtickbot_channel
 // @run-at       document-idle
