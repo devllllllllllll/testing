@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         hkticketing
-// @version      \u8a66\u7528\u000d
 // @author       TechTickBot
 // @namespace    https://t.me/techtickbot_channel
+// @name         hkticketing
+// @version      try
 // @run-at       document-idle
 // @match        *://*.hkticketing.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hkticketing.com
